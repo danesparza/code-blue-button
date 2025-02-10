@@ -1,5 +1,3 @@
-# CircuitPython I2S MP3 playback example.
-# Plays a single MP3 once.
 import board
 import audiomp3
 import audiobusio
