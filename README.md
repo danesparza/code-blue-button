@@ -1,5 +1,5 @@
 # code-blue-button
-A code blue button simulator for nursing educators
+A code blue button simulator for nursing educators, based on [CircuitPython](https://circuitpython.org)
 
 ## Parts list
 - [Raspberry Pi Pico](https://www.adafruit.com/product/6006)
