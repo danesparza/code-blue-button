@@ -6,7 +6,7 @@ A code blue button simulator for nursing educators, based on [CircuitPython](htt
 - [I2S 3W class D amp](https://www.adafruit.com/product/3006)
 - [4 ohm Speaker](https://www.adafruit.com/product/1314)
 - [Blue LED arcade button](https://www.adafruit.com/product/3490)
-- (optional for wire-free operation) [Voltaic battery kit](https://voltaicsystems.com/v75/)
+- (optional for wire-free operation) [Battery kit](https://voltaicsystems.com/v75/)
 - (optional) [Pico headers](https://www.adafruit.com/product/5582)
 - (optional) [Jumper cables](https://www.adafruit.com/product/1957)
 - (optional) [Half-sized Breadboard](https://www.adafruit.com/product/64)
